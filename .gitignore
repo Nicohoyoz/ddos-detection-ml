@@ -1,0 +1,7 @@
+# Dataset is downloaded separately (see README), not committed
+*.csv
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv
+
+# Notebook checkpoints and OS noise
+.ipynb_checkpoints/
+.DS_Store
